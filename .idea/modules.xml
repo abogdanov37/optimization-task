@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/optimization-task.iml" filepath="$PROJECT_DIR$/.idea/modules/optimization-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/optimization-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/optimization-task_main.iml" group="optimization-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/optimization-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/optimization-task_test.iml" group="optimization-task" />
+    </modules>
+  </component>
+</project>
